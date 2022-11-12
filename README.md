@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Daiya</h1>
+<h1 align="center">Hi 👋, I'm <a href ="linkedin.com/tushardaiya">Tushar Daiya</a></h1>
 <h3 align="center">Learning and Improving my Problem Solving Skills</h3>
 
 - 🌱 I’m currently learning **Python and JavaScript**
