@@ -1,9 +1,11 @@
+
+
 <h1 align="center">Hi 👋, I'm <a href ="https://www.linkedin.com/in/tushardaiya/">Tushar Daiya</a></h1>
-<h3 align="center">Learning and Improving my Problem Solving Skills</h3>
+<h3 align="center">Learning and Improving my Skills</h3>
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- 📫 How to reach me **tdaiya02@gmail.com**
+- 📫 Connect with me **tdaiya02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
