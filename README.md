@@ -26,13 +26,6 @@ Software Development | Open Source Contribution | Web development | Competitive 
 
 
 <div align="center">
- 
-### My Most used Languages
-
-![Top Langs](https://github-readme-stats-mc4l.vercel.app/api/top-langs/?username=tushar-daiya&show_icons=true&theme=tokyonight&layout=compact)
-</div>
-
-<div align="center">
 
 ### Contact Me
 
