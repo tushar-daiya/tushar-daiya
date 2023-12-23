@@ -24,6 +24,8 @@ Software Development | Open Source Contribution | Web development | Competitive 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tushar-daiya.tushar-daiya)
 </div>
 
+<div align="center">
+<img src="https://holopin.me/tushardaiya"/>
 
 <div align="center">
 
