@@ -12,12 +12,13 @@ I am a front end developer from India and I love contributing to open source.
 
 ### My Interests
 
-Software Development | Open Source Contribution | Web development | Competitive Programming | System Design
+Open Source Contributor | Web developer | Competitive Programming 
 
 
 ### My Stats
-<img  src="https://github-readme-stats-mc4l.vercel.app/api?username=tushar-daiya&show_icons=true&theme=tokyonight" width="48%" align="left" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-daiya&theme=tokyonight" width="48%"  >
+| ![Tushar Daiya github stats](https://github-readme-stats-mc4l.vercel.app/api?username=tushar-daiya\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_radius=8) | ![Tushar Daiya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tushar-daiya&theme=tokyonight&border_radius=8) |
+| -- | -- |
+
 <br>
 
 <div align="center">
