@@ -16,8 +16,8 @@ Software Development | Open Source Contribution | Web development | Competitive 
 
 
 ### My Stats
-<img  src="https://github-readme-stats-mc4l.vercel.app/api?username=tushar-daiya&show_icons=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-daiya&theme=tokyonight" width="48%" >
+<img  src="https://github-readme-stats-mc4l.vercel.app/api?username=tushar-daiya&show_icons=true&theme=tokyonight" width="100%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-daiya&theme=tokyonight" width="100%" >
 <br>
 <div align="center">
 
