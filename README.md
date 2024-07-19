@@ -6,7 +6,7 @@
 
 ## Hey there! I'm Tushar 👋
 
-I am a front end developer from India and I love contributing to open source.
+I am a FullStack developer from India and I love contributing to open source.
 
 
 
