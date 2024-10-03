@@ -17,11 +17,26 @@ Hi, I'm <b>Tushar</b>, a 20-year-old Full Stack Developer from India. I enjoy bu
 
 ### Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,figma,vscode,cpp,docker&perline=8&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,figma,vscode,cpp,docker&perline=8&theme=light">
-  <img alt="skills" src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,figma,vscode,cpp,docker&perline=8&theme=dark"/>
-</picture>
+<div align="center">
+
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Express](https://skillicons.dev/icons?i=express&theme=dark)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
+![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+
+</div>
 
  <br />
 
