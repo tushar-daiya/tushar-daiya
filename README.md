@@ -13,7 +13,7 @@
 
 ## <p>>whoami 👋</p>
 
-Hi, I'm <b>Tushar</b>, a 20-year-old Full Stack Developer from India. I enjoy building web applications and solving problems, and I actively contribute to open source projects.
+Hi, I'm <b>Tushar</b>, a 21-year-old Full Stack Developer from India. I enjoy building web applications and solving problems, and I actively contribute to open source projects.
 
 ### Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20">
 
